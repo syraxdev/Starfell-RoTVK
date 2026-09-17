@@ -1,0 +1,59 @@
+{
+  "item.wizards.spell_book/arcane": "Tôme de l'astronome Arcaniste",
+  "item.wizards.spell_book/fire": "Tôme de l'astronome Ardent",
+  "item.wizards.spell_book/frost": "Tôme de l'astronome Glacial",
+  "item.wizards.spell_scroll/arcane": "Cendres de la flamme d'Ekko",
+  "item.wizards.spell_scroll/fire": "Cendres de la flamme d'Ikka",
+  "item.wizards.spell_scroll/frost": "Cendres de la flamme d'Okka",
+  "item.wizards.spell_book/arcane.spell_binding.description": "Grimoire des Astronomes Arcanistes, usant d'énergie pure pour focaliser de puissantes attaques sur une seule cible\n- Forces: Attaques ciblées sur un ennemi unique\n- Faiblesses: Très faible défense\n- Équipement: Légèrement protégé",
+  "item.wizards.spell_book/fire.spell_binding.description": "Grimoire des Astronomes Ardents, usant de magie du feu pour atteindre des ennemis proches ou loin\n- Forces: Dégâts magiques de zone\n- Faiblesses: Faible défense et agilité\n- Équipement: Légèrement protégé",
+  "item.wizards.spell_book/frost.spell_binding.description": "Grimoire des Astronomes Glaciaux, usant de magic de glace pour ralentir les ennemis et contrôler le champ de bataille\n- Forces: Dégâts magiques ralentissants et gelant les ennemis\n- Faiblesses: Faible défense et agilité\n- Équipement: Légèrement protégé",
+
+  "item.wizards.wand_netherite_arcane": "Vraie Baguette Sélène",
+  "item.wizards.wand_netherite_fire": "Vraie Baguette Ardente",
+  "item.wizards.wand_netherite_frost": "Vraie Baguette Glaciale",
+
+  "item.wizards.staff_netherite_arcane": "Vrai Sceptre Sélène",
+  "item.wizards.staff_netherite_fire": "Vrai Sceptre Ardent",
+  "item.wizards.staff_netherite_frost": "Vrai Sceptre Glacial",
+
+  "item.wizards.netherite_arcane_robe_head": "Chapeau déviant d'Ekko",
+  "item.wizards.netherite_arcane_robe_chest": "Robe déviante d'Ekko",
+  "item.wizards.netherite_arcane_robe_legs": "Bas déviants d'Ekko",
+  "item.wizards.netherite_arcane_robe_feet": "Chaussons déviants d'Ekko",
+
+  "item.wizards.netherite_fire_robe_head": "Chapeau déviant d'Ikka",
+  "item.wizards.netherite_fire_robe_chest": "Robe déviante d'Ikka",
+  "item.wizards.netherite_fire_robe_legs": "Bas déviants d'Ikka",
+  "item.wizards.netherite_fire_robe_feet": "Chaussons déviants d'Ikka",
+
+  "item.wizards.netherite_frost_robe_head": "Chapeau déviant d'Okka",
+  "item.wizards.netherite_frost_robe_chest": "Robe déviante d'Okka",
+  "item.wizards.netherite_frost_robe_legs": "Bas déviants d'Okka",
+  "item.wizards.netherite_frost_robe_feet": "Chaussons déviants d'Okka",
+
+  "item.wizards.arcane_robe_head": "Chapeau Sélène",
+  "item.wizards.arcane_robe_chest": "Robe Sélène",
+  "item.wizards.arcane_robe_legs": "Bas Sélène",
+  "item.wizards.arcane_robe_feet": "Chaussons Séléniques",
+
+  "item.wizards.fire_robe_head": "Chapeau Ardent",
+  "item.wizards.fire_robe_chest": "Robe Ardente",
+  "item.wizards.fire_robe_legs": "Bas Ardents",
+  "item.wizards.fire_robe_feet": "Chaussons Ardents",
+
+  "item.wizards.frost_robe_head": "Chapeau Glacial",
+  "item.wizards.frost_robe_chest": "Robe Glaciale",
+  "item.wizards.frost_robe_legs": "Bas Glaciaux",
+  "item.wizards.frost_robe_feet": "Chaussons Glaciaux",
+
+  "item.wizards.wand_novice": "Baguette de Novice",
+  "item.wizards.wand_arcane": "Baguette Sélène",
+  "item.wizards.wand_fire": "Baguette Ardente",
+  "item.wizards.wand_frost": "Baguette Glaciale",
+
+  "item.wizards.staff_wizard": "Sceptre de l'apprenti",
+  "item.wizards.staff_arcane": "Sceptre Sélène",
+  "item.wizards.staff_fire": "Sceptre Ardent",
+  "item.wizards.staff_frost": "Sceptre Glacial"
+}
