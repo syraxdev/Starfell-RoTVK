@@ -1,0 +1,22 @@
+{
+  "item.archers.auto_fire_hook": "Technologie d'archer en Beskelt",
+
+  "item.archers.spell_book/archer": "Manuel du Lancier",
+  "item.archers.spell_book/archer.spell_binding.description": "Grimoire des Lanciers, usant d'armes à distance, de bêtes, et de prouesses d'archerie pour vaincre leurs ennemis à distance\n- Forces: Capable de haut dégats à distance tout en maintenant une bonne agilité\n- Faiblesses: Ennemis lourdements protégés\n- Équipement: Moyennement protégé",
+  "item.archers.spell_scroll/archer": "Cendres de la flamme Royale",
+
+  "item.archers.netherite_ranger_armor_head": "Chaperon du Voyageur",
+  "item.archers.netherite_ranger_armor_chest": "Tunique du Voyageur",
+  "item.archers.netherite_ranger_armor_legs": "Bas du Voyageur",
+  "item.archers.netherite_ranger_armor_feet": "Bottes du Voyageur",
+
+  "item.archers.golden_spear": "Pique en Argent",
+  "item.archers.diamond_spear": "Lance du premier Âge",
+  "item.archers.netherite_spear": "Lance Délaissée",
+
+  "item.archers.heavy_crossbow": "Arbalète du premier Âge",
+  "item.archers.netherite_shortbow": "Arc court Délaissé",
+  "item.archers.netherite_longbow": "Arc long Délaissé",
+  "item.archers.netherite_rapid_crossbow": "Arbalète Rapide Délaissée",
+  "item.archers.netherite_heavy_crossbow": "Arbalète Lourde Délaissée"
+}
