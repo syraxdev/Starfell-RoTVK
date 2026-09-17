@@ -1,0 +1,9 @@
+{
+  "entity.upgrade_aquatic.thrasher": "Fléau des mers",
+  "entity.upgrade_aquatic.great_thrasher": "Grand fléau des mers",
+
+  "item.upgrade_aquatic.thrasher_spawn_egg": "Oeuf d'apparition de Fléau des mers",
+  "item.upgrade_aquatic.great_thrasher_spawn_egg": "Oeuf d'apparition de Grand fléau des mers",
+
+  "item.upgrade_aquatic.thrasher_tooth": "Canine de Fléau des mers"
+}
