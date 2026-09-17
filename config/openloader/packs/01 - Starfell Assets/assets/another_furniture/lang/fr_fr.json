@@ -1,0 +1,27 @@
+{
+	"item.another_furniture.furniture_hammer": "Marteau en cuivre",
+
+	"block.another_furniture.cherry_chair": "Chaise en bois de cerisier",
+	"block.another_furniture.cherry_shelf": "Étagère en bois de cerisier",
+	"block.another_furniture.cherry_table": "Table en bois de cerisier",
+	"block.another_furniture.cherry_shutter": "Volets en bois de cerisier",
+	"block.another_furniture.cherry_bench": "Banc en bois de cerisier",
+	"block.another_furniture.cherry_lattice": "Treillis en bois de cerisier",
+	"block.another_furniture.cherry_drawer": "Tiroir en bois de cerisier",
+
+	"block.another_furniture.dark_oak_chair": "Chaise en bois d'ébène",
+	"block.another_furniture.dark_oak_shelf": "Étagère en bois d'ébène",
+	"block.another_furniture.dark_oak_table": "Table en bois d'ébène",
+	"block.another_furniture.dark_oak_shutter": "Volets en bois d'ébène",
+	"block.another_furniture.dark_oak_bench": "Banc en bois d'ébène",
+	"block.another_furniture.dark_oak_lattice": "Treillis en bois d'ébène",
+	"block.another_furniture.dark_oak_drawer": "Tiroir en bois d'ébène",
+	
+	"block.another_furniture.jungle_chair": "Chaise en bois d'acajou",
+	"block.another_furniture.jungle_shelf": "Étagère en bois d'acajou",
+	"block.another_furniture.jungle_table": "Table en bois d'acajou",
+	"block.another_furniture.jungle_shutter": "Volets en bois d'acajou",
+	"block.another_furniture.jungle_bench": "Banc en bois d'acajou",
+	"block.another_furniture.jungle_lattice": "Treillis en bois d'acajou",
+	"block.another_furniture.jungle_drawer": "Tiroir en bois d'acajou"
+}
