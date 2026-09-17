@@ -1,0 +1,19 @@
+{
+  "block.blockbox.dark_oak_seat": "Assise en bois d'ébène",
+  "block.blockbox.dark_oak_palisade": "Palissade en bois d'ébène",
+  "block.blockbox.spiked_dark_oak_palisade": "Palissade  bois d'ébène pointue",
+  "block.blockbox.stripped_dark_oak_palisade": "Palissade bois d'ébène écorcée",
+  "block.blockbox.stripped_spiked_dark_oak_palisade": "Palissade bois d'ébène écorcée pointue",
+
+  "block.blockbox.cherry_seat": "Assise en bois de cerisier",
+  "block.blockbox.cherry_palisade": "Palissade en bois de cerisier",
+  "block.blockbox.spiked_cherry_palisade": "Palissade en bois de cerisier pointue",
+  "block.blockbox.stripped_cherry_palisade": "Palissade en bois de cerisier écorcée",
+  "block.blockbox.stripped_spiked_cherry_palisade": "Palissade en bois de cerisier écorcée pointue",
+
+  "block.blockbox.jungle_seat": "Assise n bois d'acajou",
+  "block.blockbox.jungle_palisade": "Palissade en bois d'acajou",
+  "block.blockbox.spiked_jungle_palisade": "Palissade en bois d'acajou pointue",
+  "block.blockbox.stripped_jungle_palisade": "Palissade en bois d'acajou écorcée",
+  "block.blockbox.stripped_spiked_jungle_palisade": "Palissade en bois d'acajou écorcée pointue"
+}
